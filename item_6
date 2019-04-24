@@ -1,0 +1,18 @@
+Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+Bug Name: Application crash on clicking the Sign Up button
+Bug ID: xyz
+Severity: HIGH
+Priority: HIGH
+Reported By: Rotaru Andreea
+Reported On: 24.04.2019
+Reason: Defect
+Environment: Ubuntu 16.04
+
+Steps To Reproduce:
+1.Add Name
+2 Add a valid Email
+3.Type your password
+4.Click on Sign up
+
+Expected result: Create a new account

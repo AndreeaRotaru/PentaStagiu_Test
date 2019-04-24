@@ -1,0 +1,18 @@
+In the images folder you have a login form. Create Test Cases for the given form
+
+Create account:
+1.Add Name
+2 Add a valid Email
+3Type your password
+4.Click on Sign up
+
+Sign in to Diprella:
+1.Add valid Email
+2.Type password
+3.Click on Sign in
+
+If you forgot your password click on "Forgot Password" and then:
+1.Enter your valid email 
+2.Verify your email and click on the link from your email and then generate a new password
+3.Enter your new password
+4. Click Sign in

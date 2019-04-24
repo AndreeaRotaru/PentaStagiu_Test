@@ -1,0 +1,8 @@
+Difference between agile & v-model: 
+-agile approaches to achieve working product / application, at the end of each iteration, called sprint.
+V-model does not contain any iteration approach.
+-In agile, developer, tester and customer works together on piece of code for application.
+V-model does not have this concept. In V-model, developer works on designing and coding and testers working on writing testcases and testing the product. THere is no concept of "working together" for V-model.
+-Agile is more suitable for the projects where requirements change rapidly.
+V-model is suitable where requirement changes are almost none.
+

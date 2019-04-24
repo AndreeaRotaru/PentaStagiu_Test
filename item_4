@@ -1,0 +1,5 @@
+Black box testing is based on specification and we don't know anything about internal structure.
+EXEMPLE: A tester, without knowledge of the internal structures of a website, tests the web pages by using a browser and verifying the outputs against the expected outcome.
+
+White Box Testing is a software testing method in which the internal structure is known to the tester. 
+EXEMPLE: unit testing

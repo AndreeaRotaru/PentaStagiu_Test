@@ -1,0 +1,5 @@
+Error = A mistake in coding
+Defect = The difference between actual result and expected result
+Bug = when defect is accepted by development team it is called bug
+Fault = an incorrect steps witch causes the program to perform unanticipated manner. 
+Failure =when build does not meet the requirements
